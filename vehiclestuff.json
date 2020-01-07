@@ -109,7 +109,7 @@
     "broken_symbol" : "#",
     "broken_color" : "dark_gray",
     "durability" : 150,
-    "description" : "A huge rack with four shelves.",
+    "description" : "A huge rack with four shelves. Can be externally installed on a vehicle.",
     "size" : 4000,
     "item" : "storage_rack",
     "difficulty" : 1,
